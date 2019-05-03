@@ -1,0 +1,5 @@
+﻿<s> his painting </s>
+<s> his collection </s>
+<s> painting collection </s>
+<s> painting and collection </s>
+<s> his collection and painting </s>
